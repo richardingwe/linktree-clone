@@ -1,24 +1,24 @@
 {
 	"name": "Richard Ingwe",
-	"avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/calebogden/128.jpg",
+	"avatar": "https://pbs.twimg.com/profile_images/1550223491164766209/Nn8W3puk_400x400.jpg",
 	"links": [
 		{
 			"title": "My Portfolio",
-			"url": "https://ruingwe.com/"
+			"href": "https://ruingwe.com/"
 		},
 		{
 			"title": "Github",
-			"url": "https://github.com/richardingwe"
+			"href": "https://github.com/richardingwe"
 		}
 	],
 	"socials": [
 		{
 			"title": "Twitter",
-			"url": "https://twitter.com/richardingwe"
+			"href": "https://twitter.com/richardingwe"
 		},
 		{
 			"title": "Github",
-			"url": "https://github.com/richardingwe"
+			"href": "https://github.com/richardingwe"
 		}
 	]
 }
